@@ -1447,9 +1447,9 @@
     height: 500px;
     position: absolute;
     top: 0;
-    left: 200px;
+    /* left: 200px; */
     background: #fff;
-    display: none;
+    /* display: none; */
 }
 .hot-con-line{
     width: 583px;
